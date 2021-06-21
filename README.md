@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @manish3477
-- 👀 I’m interested in Front-end designing and development
-- 🌱 I’m currently learning React.js
+- 👋 Hi, I’m Manish Parajuli
+- 👀 I’m working in Front-end designing and development
+- 🌱 I’m currently learning React.js and its libraries.
 - 💞️ I’m looking to collaborate on Front-end development
-- 📫 You reach to me via. parajulimanish43@gmail.com 
+- 📫 You can reach to me via. parajulimanish43@gmail.com 
 - Checkout my design shots in dribble: https://dribbble.com/manish_seven
 
 <!---
