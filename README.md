@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manish Parajuli.
-- 👀 I’m working on Html,Css,Javascript,ReactJs,VueJs and Laravel.
+- 👀 I’m working on/with Html,Css,Javascript,ReactJs,VueJs, NodeJs and Laravel.
 - 📫 You can reach to me via. parajulimanish43@gmail.com 
 
 <!---
